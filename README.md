@@ -2,7 +2,7 @@
 
 Projects I built as the sole IT developer during my internship.
 
-# Invoice and Payslip Generator
+# 1. Invoice and Payslip Generator
 Problem: Invoices and payslips were made by hand in Canva, taking 5 to 10 minutes each. There was no database, records were stored locally, and some got lost.
 Solution: A Google Sheets + Apps Script system. Pick a service, the amount auto-fills, choose the quantity, and the total calculates itself. It generates a PDF, emails it directly to the client, and saves it in Google Drive. The payslip version automatically deducts pay for absent days.
 Stack: Google Sheets, Google Apps Script, Google Drive, Gmail

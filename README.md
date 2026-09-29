@@ -8,7 +8,7 @@ Solution: A Google Sheets + Apps Script system. Pick a service, the amount auto-
 Stack: Google Sheets, Google Apps Script, Google Drive, Gmail\
 Extras: Multicurrency support for each branch (Malaysia, Indonesia, China)\
 Users: HR staff, daily\
-Result: Roughly 5 to 10 minutes per document down to about 1 minute (fix this to the real number), plus a proper record database with no lost files.\
+Result: Roughly 5 to 10 minutes per document down to about 2 minutes , plus a proper record database with no lost files.\
 What I'd improve: Add an approval step before sending, and an audit log.
 
 # 2. CRM System with Dashboard
@@ -21,7 +21,7 @@ Document upload via Drive, and sharing with clients directly\
 A dashboard with totals per service, team leader tasks, and month-over-month % comparison\
 Users: 8 to 10 staff at a startup company\
 Result: One source of truth instead of scattered chats, with automatic follow-ups.\
-What I'd improve: Move to a real database (Firebase or PostgreSQL) if the team grows.
+What I'd improve: Move to a real database if the team grows.
 
 # 3. Client Websites
 Problem: A nightclub and restaurant client (Arabic) and a new office branch both needed a professional web presence.\
